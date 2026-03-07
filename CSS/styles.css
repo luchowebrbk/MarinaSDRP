@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    padding: 0;
+    margin: 0 auto;
+}
+
+#map {
+    height: 100%;
+    width: 90%;
+    min-height: 700px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+h3 {
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    color: #1ea2d6;
+    margin-top: 20px;
+}
